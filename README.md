@@ -1,6 +1,6 @@
-# NoteWave
-Ride the fun of organizing your thoughts via note taking
+# Run the code
 
-Created with react
-•Dark mode
-•Local storage
+```
+npm install
+npm start
+```
